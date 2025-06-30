@@ -1,0 +1,7 @@
+venv/
+.env
+generated_image.png
+__pycache__/
+*.pyc
+*.cache
+*.log
